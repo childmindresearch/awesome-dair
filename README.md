@@ -31,3 +31,4 @@ A curated list of awesome CMI DAIR libraries, software and resources.
 
 ## Dev tooling
 * [DAIR Python Template Repository](https://github.com/cmi-dair/template-python-repository) - Python package boilerplate
+* [&#956;nifti.h](https://github.com/cmi-dair/unifti) - Minimal header only NIfTI definitions and utilities
